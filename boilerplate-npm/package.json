@@ -1,0 +1,15 @@
+{
+	"name": "fcc-learn-npm-package-json",
+	"author": "Santidlt",
+	"dependencies": {
+		"express": "^4.17.2"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://idontknow/todo.git"
+	}
+}
